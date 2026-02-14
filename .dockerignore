@@ -1,0 +1,9 @@
+data/
+mysql/
+db.sqlite3
+.env
+.git
+.gitignore
+__pycache__/
+*.pyc
+node_modules/
